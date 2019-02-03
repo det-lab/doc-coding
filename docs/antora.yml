@@ -1,5 +1,5 @@
-name: component-b
-title: Component B
+name: doc-coding
+title: Code Help
 version: dev
 nav:
 - modules/ROOT/nav.adoc
