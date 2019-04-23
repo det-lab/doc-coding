@@ -1,6 +1,6 @@
 name: doc-coding
 title: Code Help
-version: dev
+version: master
 nav:
 - modules/ROOT/nav.adoc
 - modules/module-one/nav.adoc
