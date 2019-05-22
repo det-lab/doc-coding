@@ -1,2 +1,9 @@
-CI for GitHub--Utilizing Travis CI
-    https://docs.travis-ci.com/user/tutorial/
+= CI for GitHub--Utilizing Travis CI
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+// Settings
+:idprefix:
+:idseparator: -
+
+https://docs.travis-ci.com/user/tutorial/
