@@ -1,3 +1,1 @@
 * xref:overview.adoc[Module One]
-* xref:CI_GitHub.adoc[CI for GitHub]
-* xref:CI_GitLab.adoc[CI for GitLab]
