@@ -1,2 +1,0 @@
-* xref:CI_GitHub.adoc[CI for GitHub]
-* xref:CI_GitLab.adox[CI for GitLab]
